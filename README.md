@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently pursuing **B.E in Artificial Intelligence and Machine Learning from B.M.S College of Engineering**
 
-- 👯 I’m working as a **Sports Analyst at Str8bat**
+- 👯 I’m working as a **Sports Analyst Intern at Str8bat**
 
 - 📫 Reach me at **smonesh02@gmail.com**
 
